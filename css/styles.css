@@ -1,0 +1,276 @@
+body{
+  margin: 0px;
+  text-align: center;
+  width: 100%;
+
+}
+
+h1{
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 62px;
+  right: -22px;
+  font-family: 'Sacramento', cursive;
+  font-size: 55px;
+  font-weight: bold;
+  color: #05a19c;
+  left: 0px;
+
+}
+
+h2{
+  font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+h3{
+  font-family: 'ABeeZee', sans-serif;
+}
+
+
+.top-container{
+  background-color:#b2d3be;
+  margin: 0px;
+  height: 1091px;
+  text-align: center;
+}
+
+.cld-1{
+position: absolute;
+right: 268px;
+top: 31px;
+}
+
+.cld-2{
+  position: absolute;
+  top: 200px;
+  left: 306px;
+}
+
+.tag-line{
+  font-family: 'Satisfy', cursive;
+  font-size: 19px;
+  font-weight: bold;
+  color: #02576c;
+  position: relative;
+  top: 86px;
+  right: 0px;
+  left: 0px;
+  display: block;
+  margin: 0 auto 0 auto
+}
+
+.mountain{
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 53px;
+  right: 24px;
+}
+
+.my-image{
+  position: relative;
+  top: 50px;
+  left: 5px;
+  margin: 0 auto 0 auto;
+  border-radius: 100%;
+  height: 196px;
+}
+
+.hello{
+  position: relative;
+  top: 90px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 35px;
+  color: #05a19c;
+  text-align: center;
+  top: 46px;
+  top=64 px
+}
+
+.TC-tagline{
+  position: relative;
+  font-family: 'Short Stack', cursive;
+  top: 80px;
+  font-size: 23px;
+  color: #02576c;
+  margin: 0 auto 0 auto;
+  display: inline-grid;
+  top: 39px;
+  display: block;
+  text-align: center;
+  left: 0px;
+  width: 825px;
+}
+
+.hr1{
+  position: relative;
+  bottom: 10px;
+  border-style: none;
+  width: 8%;
+  border-bottom-style: dotted;
+  border-width: 8px;
+  color: #05a19c;
+  bottom: 17px;
+}
+
+
+.middle-container{
+  position: relative;
+  top: -44px;
+  background-color: #caf2d7;
+  height: 508px;
+}
+
+.my-skill{
+  position: relative;
+  top: 19px;
+  font-size: 34px;
+  color: #05a19c;
+}
+
+.skill{
+  border-radius: 100%;
+  height: 226px;
+  width: 226px;
+  position: relative;
+  top: 18px;
+}
+
+.design{
+  position: relative;
+  top: 33px;
+  font-family: 'ABeeZee', sans-serif;
+  font-size: 29px;
+  color: #05a19c;
+  font-weight: 500
+}
+
+.skill-line{
+  top: 11px;
+  font-family: 'Short Stack', cursive;
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 35px;
+  font-size: 19px;
+  font-weight: 500;
+  color: #02576c;
+  display: table-caption;
+  width: 690px;
+  top: 16px;
+  text-align: center;
+}
+
+.hr2{
+  position: relative;
+  top:23px;
+  border-style: none;
+  border-bottom-style: dotted;
+  border-width: 8px;
+  width: 8%;
+  color: #05a19c;
+}
+
+p{
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 108px;
+  left: 16px;
+  font-family: 'Satisfy',cursive;
+
+}
+
+.contact{
+  position: relative;
+  background-color:#b2d3be;
+  text-align: center;
+  height: 355px;
+  top: -3px;
+}
+
+.in-touch{
+position: relative;
+top: 21px;
+font-family: 'Montserrat Alternates', sans-serif;
+font-size: 31px;
+color: #05a19c;
+font-weight: bold;
+}
+
+.startup{
+  position: relative;
+  top: -5px;
+  left: 87px;
+  color: #02576c;
+  display: table-caption;
+  width: 660px;
+  text-align: center;
+  font-family: 'Short Stack', cursive;
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.btn{
+  position: relative;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px #666666;
+  color: #c8dad3;
+  font-size: 15px;
+  font-family: 'Poiret One', cursive;
+  background: #45b29a;
+  padding: 12px 25px 12px 25px;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  right: 327px;
+  top: 23px;
+  font-weight: 700;
+}
+
+.btn:hover {
+  background: #1b7f69;
+  text-decoration: none;
+}
+
+.bottom-container{
+  display: inline;
+  margin: 0 auto 0 auto;
+  height: 100px;
+  top: 232px;
+  position: relative;
+  left: 0px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  background-color:#b2d3be;
+  width: 100%;
+
+
+}
+
+.end{
+  top: 20px;
+  left: 0px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  color: #02576c;
+}
+
+.footer-link1{
+font-size: 15px;
+font-weight: bold;
+color: #02576c;
+}
+
+.footer-link2{
+  font-size: 15px;
+  position: relative;
+  left: 5px;
+  font-weight: bold;
+  color: #02576c;
+}
+
+.footer-link3{
+    font-size: 15px;
+    position: relative;
+    left: 10px;
+    color: #02576c;
+    font-weight: bold;
+}
